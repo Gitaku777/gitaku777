@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+“Life’s most persistent and urgent question is: ‘What are you doing for others?’”
+
+Writing code to make the world a better place!
+
 <!--
 **Gitaku777/gitaku777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
